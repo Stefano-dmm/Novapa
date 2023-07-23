@@ -1,0 +1,2 @@
+
+Proyecto de practica, gestion de informacion json via api - raw. generador de codigo (tratar dew predecir el siguiente codigo)
